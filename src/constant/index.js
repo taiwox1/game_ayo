@@ -1,4 +1,4 @@
-export const Pad = [{
+export const toproll = [{
         id: 1,
     },
     {
@@ -16,7 +16,11 @@ export const Pad = [{
     {
         id: 6,
     },
-    {
+
+
+]
+
+export const bottomroll = [{
         id: 7,
     },
     {
@@ -34,5 +38,4 @@ export const Pad = [{
     {
         id: 12,
     },
-
 ]
